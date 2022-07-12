@@ -1,4 +1,4 @@
-# Programa utilizado para verificar o valor de um texto
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 teclado = input(print("Digite algo para ser verificado:"))
 print(f"A classe do objeto digitado é: {type(teclado)}")
