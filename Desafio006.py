@@ -1,3 +1,4 @@
+# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada
 
 num = int(input("Qual é o número que você deseja revelar? "))
 numDobro = num * 2
